@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/programble/careen.git"
+    "url": "https://github.com/bocoup/careen.git"
   },
   "keywords": [
     "sql",
@@ -29,9 +29,9 @@
   "author": "Curtis McEnroe <curtis@cmcenroe.me> (http://cmcenroe.me)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/programble/careen/issues"
+    "url": "https://github.com/bocoup/careen/issues"
   },
-  "homepage": "https://github.com/programble/careen",
+  "homepage": "https://github.com/bocoup/careen",
   "dependencies": {
     "bluebird": "^2.9.14",
     "chalk": "^1.0.0",
